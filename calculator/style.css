@@ -1,0 +1,21 @@
+.content{
+
+    height: 600px;
+    width: 600px;
+    
+    margin:0 auto;
+    background-color: aqua;
+    border: 1em;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(84, 158, 84);
+}
+input{
+    font-size: 6 em;
+}
+
+button{
+    font-size: 4 em;
+}
